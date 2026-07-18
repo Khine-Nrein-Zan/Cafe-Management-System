@@ -11,4 +11,5 @@ package com.mycompany.cafe_management_system;
 public class Shait_Htoo {
     String mylover = "Shait Htoo";
     String achit = "Khine Ngrein Zan";
+    String arakhanbo = "Paing Soe";
 }
