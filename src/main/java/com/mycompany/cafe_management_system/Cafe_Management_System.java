@@ -14,5 +14,6 @@ public class Cafe_Management_System {
         System.out.println("Hello World! cafe cafe cafe cafe");
         System.err.println("Hello World! Khine Ngrein Zan");
         System.out.print("Radanar Htun");
+        System.out.print("Ei Phru Soe");
     }
 }
